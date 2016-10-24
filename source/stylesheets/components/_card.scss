@@ -1,0 +1,48 @@
+.card {
+  border-radius: 5px;
+  margin-top: 87px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  position: relative;
+  font-family: Open Sans;
+  color: white;
+  text-shadow: 1px 1px 7px #292929;
+  .avatar {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+}
+
+.card #profile-pic {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+}
+
+.card h3 {
+  position: absolute;
+  font-family: Raleway;
+  font-size: 24px;
+  bottom: 42px;
+  left: 8px;
+}
+
+.card p {
+  position: absolute;
+  font-size: 25px;
+  font-weight: 400;
+  left: 13px;
+}
+
+.card h5 {
+  position: absolute;
+  bottom: 8px;
+  left: 8px;
+  font-size: 16px;
+}
+
+
